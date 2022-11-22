@@ -1,0 +1,67 @@
+/* Write your CSS here - remember to add Id's or classes to the HTML file */
+
+/* Background */
+
+
+
+body {
+    background-color: black;
+    
+}
+
+h1 {
+    background-image: url("img/Records.jpg");
+    font-family: "Sagoe UI", Verdana, sans-serif;
+    font-size: 100px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+} 
+
+main h2 {
+    font-family: "Sagoe UI", Verdana, sans-serif;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: #ef8354;
+    text-align: center;
+}
+
+img {
+    width: 500px;
+}
+
+p {
+    font-family: "Sagoe UI", Verdana, sans-serif;
+    color: white;
+    font-size: 16px;
+}
+
+span {
+    font-weight: bold;
+}
+
+h3 {
+    color: white;
+    font-weight: bold;
+}
+
+.selling {
+    background-color: #0e7c7b;
+}
+
+.music {
+    background-color: #9c538b;
+}
+
+a {
+    color: #ef8354;
+}
+
+a:hover {
+    color: #9c528b;
+}
+
+footer p {
+    text-align: center;
+}
